@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ishaqashraf90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+971503063964"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ishaqashraf-35249095/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ishaqashraf/portfolio"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
